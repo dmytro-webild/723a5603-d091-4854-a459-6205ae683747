@@ -166,7 +166,7 @@ export default function LandingPage() {
         },
         {
           type: "text",
-          content: ", Σογο LTD has been the heart of Cyprus's gardening community.",
+          content: " Σογο LTD has been the heart of Cyprus's gardening community.",
         },
       ]}
       buttons={[
