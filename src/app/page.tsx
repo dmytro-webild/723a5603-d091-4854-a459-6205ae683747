@@ -166,7 +166,7 @@ export default function LandingPage() {
         },
         {
           type: "text",
-          content: " Σογο LTD has been the heart of Cyprus's gardening community.",
+          content: " SOGO LTD has been the heart of Cyprus's gardening community.",
         },
       ]}
       buttons={[
@@ -370,7 +370,7 @@ export default function LandingPage() {
       ]}
       showRating={true}
       title="What Our Gardeners Say"
-      description="Hear from our satisfied customers who have transformed their outdoor spaces with the help of Σογο LTD's premium products and expert advice."
+      description="Hear from our satisfied customers who have transformed their outdoor spaces with the help of Sogo LTD's premium products and expert advice."
     />
   </div>
 
@@ -486,7 +486,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Σογο LTD. All rights reserved."
+      copyrightText="© 2024 Σogo ΛΤΔ. All rights reserved."
     />
   </div>
       </ReactLenis>
